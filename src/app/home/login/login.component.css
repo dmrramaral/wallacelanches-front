@@ -1,0 +1,8 @@
+.login {
+    margin: 0 20px;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    background-color: rgba(255, 0, 0, 0.13);
+}

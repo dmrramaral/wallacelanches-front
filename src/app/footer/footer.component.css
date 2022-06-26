@@ -1,0 +1,22 @@
+.footer ul li {
+    width: 40px;
+    list-style-type: none;
+    margin-top: 5%;
+}
+
+.footer ul {
+    display: flex;
+    justify-content: center;
+}
+
+.footer .desenvolvido {
+    text-align: center;
+    bottom: 0;
+}
+
+.footer {
+    position: unset;
+    bottom: 0;
+    width: 100%;
+    margin-top: 20px;
+}
